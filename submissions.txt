@@ -1,0 +1,1 @@
+wonhyeong, https://github.com/dnjsgud0828/linux2025.git, /home/aa/li2025, install_pyenv_on_debian.sh
